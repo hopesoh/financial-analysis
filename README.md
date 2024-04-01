@@ -7,6 +7,8 @@ A sample of Python in practice, with the aim of:
 - perform data analysis from a Stock Exchange database
 - simulate ChatGPT usage scenarios and AI applied to Data Analysis
 
+![analysis](https://github.com/hopesoh/financial-analysis/assets/29494780/b0652be4-43ea-4aa7-b7da-ae8221d98295)
+
 
 ### Built With
 
