@@ -2,7 +2,7 @@
 
 A sample of Python in practice, with the aim of:
 - expand knowledge in exploratory analysis with Excel and Google Sheets
-- learn, in practice, about data manipulation and creating graphs with Python libraries
+- learn about data manipulation and creating graphs with Python libraries
 - create candlestick charts with Matplotlib and evolve to interactive charts using Plotly
 - perform data analysis from a Stock Exchange database
 - simulate ChatGPT usage scenarios and AI applied to Data Analysis
